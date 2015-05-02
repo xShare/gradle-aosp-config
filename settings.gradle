@@ -1,0 +1,3 @@
+include ':PhoneCommon', ':Dialer'
+include ':ContactsCommon'
+include ':vcard'
